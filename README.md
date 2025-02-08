@@ -47,12 +47,6 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 currently selected the audio tab for the audio compression tool.</p>
 <br>
 
-## Installation
-1. Clone repo or download the folder and load it into an unity project.
-2. If installing from a Unity package, navigate to Assets > Import Packages, select the Unity package, and open it. A popup will appear showing the contents of the package. Choose to import everything from the package and click OK.
-3. To use the tool, navigate to Tools > Tech Art Toolkit, and select that option.
-4. If you did it right, a window popup should appear with the tabs of the tools and the settings for the tools.
-
 ## Credits/Assets used
 Amane Kisora Animations and Character model (Free Version) by BLACKC Inc. Used for demonstration and testing purposes only. No changes made to the model and animation. (https://assetstore.unity.com/packages/3d/characters/amane-kisora-chan-free-ver-70581)
 
