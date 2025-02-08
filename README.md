@@ -1,4 +1,5 @@
-![repaiocelohc1_1](https://github.com/user-attachments/assets/693fcc33-2a41-48dd-95ba-0e4fda3ded75)
+![repaiocelohc1_4](https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8)
+
 
 # Tech Art Toolkit
 
@@ -25,7 +26,7 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 
 ## Example[s]
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/693fcc33-2a41-48dd-95ba-0e4fda3ded75" width="450" alt="GIF"/>
+  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="450" alt="GIF"/>
 </div>
 <p align="center">Preview from the results of the animation compression.</p>
 <br>
