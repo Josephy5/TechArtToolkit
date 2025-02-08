@@ -8,7 +8,7 @@
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
 
-Tech Art Toolkit is an unity editor tool specializing in dealing with matters that technical artists handle like compressing textures, animation, etc via automation scripts.
+Tech Art Toolkit is an unity editor tool specializing in dealing with matters that technical artists handle like compressing animation & audio, or converting materials to a material shader via automation scripts.
 It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, it could run on Unity 2022 or other versions of unity and other pipelines but it is untested.
 
 > ***THIS REPOSITORY IS JUST A SHOWCASE OF THE TOOL[S] I DEVELOPED FOR THIS TOOLKIT FOR PORTFOLIO REASONS.***
