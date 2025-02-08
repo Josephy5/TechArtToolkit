@@ -26,25 +26,25 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 
 ## Example[s]
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="450" alt="GIF"/>
+  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="700" alt="GIF"/>
 </div>
 <p align="center">Preview from the results of the animation compression.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2564d9c6-039e-4e45-8f19-20d7b806d039" width="450" alt="JPG"/>
+  <img src="https://github.com/user-attachments/assets/2564d9c6-039e-4e45-8f19-20d7b806d039" width="700" alt="JPG"/>
 </div>
 <p align="center">A screenshot of the animation compression results.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/869924e7-b3b0-4f3c-b6eb-de218337cbe2" width="450" alt="JPG2"/>
+  <img src="https://github.com/user-attachments/assets/869924e7-b3b0-4f3c-b6eb-de218337cbe2" width="700" alt="JPG2"/>
 </div>
 <p align="center">A screenshot of the audio compression results.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/96043bbc-2423-4251-9d63-e11fb2f18e9e" width="450" alt="WINDOWJPG"/>
+  <img src="https://github.com/user-attachments/assets/96043bbc-2423-4251-9d63-e11fb2f18e9e" width="350" alt="WINDOWJPG"/>
 </div>
-<p align="center">The older version of what the Tech Art Toolkit looks like in its all in one GUI window, currently selected the 
-audio tab for the audio compression tool.</p>
+<p align="center">The older version of what the Tech Art Toolkit looks like in its all in one GUI window, 
+currently selected the audio tab for the audio compression tool.</p>
 <br>
 
 ## Installation
