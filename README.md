@@ -1,6 +1,6 @@
 ![repaiocelohc1_1](https://github.com/user-attachments/assets/693fcc33-2a41-48dd-95ba-0e4fda3ded75)
 
-# Tech Art Toolkiy
+# Tech Art Toolkit
 
 ![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
 ![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)
@@ -14,7 +14,7 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 >
 > ***IN THE FUTURE, I WILL PROVIDE A SIMPLIFIED VERSION OF ONE OF THE TOOLS THAT YOU CAN USE FOR PROJECTS OR LEARNING***
 
-#### <ins>Do note that the tool is still in its early stages, there is still quite a bit of things to iron out, improve, and add onto.</ins>
+<ins>Do note that the tool is still in its early stages, there is still quite a bit of things to iron out, improve, and add onto.</ins>
 
 ## Features
 - Choose from a variety of tools to handle all kinds of tasks for a particular, from audio to animation files
@@ -24,20 +24,26 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 - An all in one GUI window interface to utilize the tool in Unity's editor
 
 ## Example[s]
-![repaiocelohc1_1](https://github.com/user-attachments/assets/693fcc33-2a41-48dd-95ba-0e4fda3ded75)
-Preview from the results of the animation compression.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/693fcc33-2a41-48dd-95ba-0e4fda3ded75" width="450" alt="GIF"/>
+</div>
+<p align="center">Preview from the results of the animation compression.</p>
 <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2564d9c6-039e-4e45-8f19-20d7b806d039" width="450" alt="JPG"/>
+</div>
+<p align="center">A screenshot of the animation compression results.</p>
 <br>
-![Capture](https://github.com/user-attachments/assets/2564d9c6-039e-4e45-8f19-20d7b806d039)
-A screenshot of the animation compression results.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/869924e7-b3b0-4f3c-b6eb-de218337cbe2" width="450" alt="JPG2"/>
+</div>
+<p align="center">A screenshot of the audio compression results.</p>
 <br>
-<br>
-![Capture2](https://github.com/user-attachments/assets/869924e7-b3b0-4f3c-b6eb-de218337cbe2)
-A screenshot of the audio compression results
-<br>
-<br>
-![Capture4](https://github.com/user-attachments/assets/96043bbc-2423-4251-9d63-e11fb2f18e9e)
-The older version of what the Tech Art Toolkit looks like in its all in one GUI window, currently selected the audio tab for the audio compression tool.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/96043bbc-2423-4251-9d63-e11fb2f18e9e" width="450" alt="WINDOWJPG"/>
+</div>
+<p align="center">The older version of what the Tech Art Toolkit looks like in its all in one GUI window, currently selected the 
+audio tab for the audio compression tool.</p>
 <br>
 
 ## Installation
