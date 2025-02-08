@@ -45,7 +45,6 @@ It is designed to run on the Unity URP pipeline and Unity 6, but theoretically, 
 </div>
 <p align="center">The older version of what the Tech Art Toolkit looks like in its all in one GUI window, 
 currently selected the audio tab for the audio compression tool.</p>
-<br>
 
 ## Credits/Assets used
 Amane Kisora Animations and Character model (Free Version) by BLACKC Inc. Used for demonstration and testing purposes only. No changes made to the model and animation. (https://assetstore.unity.com/packages/3d/characters/amane-kisora-chan-free-ver-70581)
