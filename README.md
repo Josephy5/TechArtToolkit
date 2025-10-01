@@ -3,7 +3,7 @@
 
 # Tech Art Toolkit
 
-![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-6000.0.58%27LTS%2B-blueviolet?logo=unity)
 ![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
@@ -49,4 +49,5 @@ currently selected the audio tab for the audio compression tool.</p>
 ## Credits/Assets used
 Amane Kisora Animations and Character model (Free Version) by BLACKC Inc. Used for demonstration and testing purposes only. No changes made to the model and animation. (https://assetstore.unity.com/packages/3d/characters/amane-kisora-chan-free-ver-70581)
 
-Tool was initially inspired by OsmYlmztrk’s UnityCompressionTool/CreativeSoda’s Compression Tool. Some of the code can be based from there. (https://github.com/OsmYlmztrk/UnityCompressionTool/tree/main)
+Tool was initially inspired by OsmYlmztrk’s UnityCompressionTool/CreativeSoda’s Compression Tool.
+Unity Asset Compression Tool by OsmYlmztrk ([Github Link](https://github.com/OsmYlmztrk/UnityCompressionTool/tree/main)), some of the code can be based from there. Licensed under MIT License - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
